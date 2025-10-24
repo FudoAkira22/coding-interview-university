@@ -233,8 +233,8 @@ git push --force
 
 ## No sienta que no es lo suficientemente listo
 - Los ingenieros de software exitosos son inteligentes, pero muchos tienen la inseguridad de no ser lo suficientemente listos.
-- [x][The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [x][It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [X][The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [X][It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## Acerca de los recursos de vídeo
 Algunos videos solo están disponibles inscribiéndose a una clase de Coursera o EdX. Estos son llamados MOOCs. En ocasiones las clases no están en sesión, por lo que tendrá que esperar un par de meses, así que no tiene acceso.
@@ -242,8 +242,8 @@ Algunos videos solo están disponibles inscribiéndose a una clase de Coursera o
 Apreciaría su ayuda añadiendo fuentes siempre disponibles, publicas y gratuitas como videos de Youtube para acompañar a los videos del curso en línea.
 
 ## Prepárese para la entrevista
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
